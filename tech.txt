@@ -1,0 +1,38 @@
+MUST HAVE:
+
+Experience with Microservices, Python, Jira and SQL
+
+
+We are seeking hands on Full Stack Engineers to build our next generation solutions. The ideal candidate, a skilled programmer with excellent communication abilities, collaborates with colleagues to construct the foundational infrastructure from the ground up. The ideal candidate will have proven skills in independently owning the full software development lifecycle, working with business analysts and project managers to understand the problem statement, and delivering quality solutions on time. They will have the aptitude to quickly learn and embrace new technologies and proven methodologies to build and deliver solutions on time.
+
+
+Primary Responsibilities
+
+Responsible for full lifecycle of development tasks - analyze, design and code business-related solutions, as well as core architectural changes, using an Agile programming approach resulting in software delivered to tight deadlines.
+Participate and contribute to design discussions and code reviews.
+Understand changing priorities and be forward-thinking in context switching.
+Build positive relationships with other team members, collaborate, and communicate effectively to reach successful outcomes
+Utilize problem-solving skills to help your peers in the research and selection of tools, products, and frameworks (which is vital to support business initiatives)
+
+
+Qualifications & Experience
+
+Educational Background: Bachelor’s or Master’s degree in Computer Science or another STEM field.
+Professional Experience: 6-10+ years of proven hands-on, full-stack development expertise.
+Technical Skills:
+Frontend Development: Strong proficiency in UI design
+Backend Development: Solid experience with service development.
+Database Management: Strong Database skillsets, with the ability to design, optimize, and manage databases effectively.
+Architecture: Experience with Event-Driven architectures and messaging systems
+
+
+ Development Practices:
+Comfortable working in an Agile software delivery environment.
+Proficient with Git and experienced with CI/CD tools (e.g., GitHub, Docker, Jenkins), ensuring efficient version control and deployment processes.
+SOLID Design Principles: A strong understanding of SOLID design principles, ensuring the development of software systems that are manageable, scalable, and extensible.
+Twelve-Factor App Methodology: Knowledge of the Twelve-Factor App methodology for building software-as-a-service apps that are robust, scalable, and maintainable.
+Microservices: Demonstrated ability to build and deploy microservices in a scalable high throughput workflow, showcasing an understanding of modern application architectures.
+Code Quality: Passion for writing clean, maintainable code, with a continuous drive to improve engineering skills and practices in fast-paced and ambiguous environments.
+Observability: Good to have experience with implementing observability in applications, including monitoring, logging, and tracing to ensure high availability and performance.
+Python: Proficiency in Python is preferred, adding versatility to backend development and automation tasks.
+Industry Experience: While not mandatory, experience in financial services is preferred, indicating a familiarity with industry-specific challenges and solutions.

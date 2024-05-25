@@ -1,0 +1,29 @@
+RESPONSIBILITIES:
+
+Work with a team of developers on middleware applications in a Services Oriented Architecture environment.
+Participate in the full software development lifecycle from requirement review, solution design, coding, unit testing, deployment, documentation, and operations support.
+Work with and under the supervision of senior development staff in all phases of the development and implementation process.
+Share experience, skills, and talents with associates
+May be required to do on call production support
+ 
+
+QUALIFICATIONS:
+
+0-2 years of experience in open source Java, OOP development experience
+Experience with Spring Boot framework
+Experience with SQL
+Nice to have: AWS exposure
+Understanding of enterprise application design, web applications, and Services Oriented Architectures
+Ability to speak to personal or professional development projects
+Ability to work well under tight timelines, changing priorities, and have strong problem-solving capabilities
+Degree in Computer Science or a related field
+ 
+
+WHAT’S IN IT FOR YOU …?
+
+Ability to grow within an industry leading Telecom Company
+Exposure to cutting edge technologies and methodologies
+Opportunity to directly impact customers
+Ongoing professional and technical training
+Collaborative team environment
+Take part in professional development program designed to help achieve professional goals and be rewarded for doing so

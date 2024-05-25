@@ -1,0 +1,59 @@
+                                    SAI KIRAN REDDY KUDUMULA
+        skudumul@gmu.edu | 7039092042 | Fairfax, VA | LinkedIn | Github | Portfolio 
+
+PROFESSIONAL SUMMARY
+Dynamic and results-oriented full-stack software engineer with over 4 years of professional experience. Expert in leading the development of scalable web and mobile applications utilizing forefront technologies including React, React Native, Node.js, and AWS. Demonstrates exceptional leadership by guiding high-performing teams toward the successful execution of innovative solutions. Skilled in enhancing application performance and user engagement through sophisticated state management, API integrations, and the application of agile methodologies.
+
+EDUCATION
+George Mason University, Fairfax, VA
+Master of Science in Computer Science
+
+PROFESSIONAL SUMMARY 
+George Mason University, USA
+Graduate Research Assistant
+Jan 2023 - May 2024 GPA: 4.0
+Aug 2023 - Present
+  ● Excelled in conveying complex programming concepts in Java and Python to over 100 students, enhancing their comprehension and performance in algorithms and data structures.
+● Mentored and supported over 100 undergraduate students in grasping complex algorithms and data structures in Java and Python.
+West Agile Labs, India May 2021 - Dec 2022
+Senior Software Engineer
+● Led a 10-member team as Squad Lead, overseeing sprint brainstorming, task breakdown, and distribution among developers.
+● Collaborated on front-end development projects, employing JavaScript frameworks like NextJs, React, and Express to create intuitive and
+dynamic user interfaces.
+● Led the design, development, and optimization of scalable microservices architectures, utilizing REST and GraphQL to improve system integration and data exchange.
+● Participating in the Sprint Planning and User Story Grooming sessions and suggesting can-do and cannot-do in each Sprint. Software Development Engineer
+● Developed and launched robust single-page web applications and mobile apps using React.js and React-Native, integrating responsive design
+● with HTML5, CSS3, and Bootstrap, and enhancing functionality with Redux for state management.
+● Pioneered the adoption of CI/CD processes and pipelines using Jenkins and AWS DevOps, accelerating delivery cycles and enhancing
+code quality.
+● Streamlined build and deployment processes using Webpack, NPM for package management, and Firebase for build sharing, with a focus on
+cross-browser compatibility and proactive participation in Sprint Planning and User Story Grooming sessions.
+● Championed best practices in software development, including continuous integration and deployment (CI/CD) with tools like Jenkins and
+AWS, to ensure high-quality code and agile response to changing requirements.
+Devathon, India Jun 2018 - May 2021
+Software Developer
+● Spearheaded the development of dynamic web and mobile applications using React JS and React Native ensuring optimal performance and responsiveness across platforms.
+● Advanced project workflows with agile methodologies, utilizing Git for version control, JIRA for project tracking, and Jenkins for continuous integration and deployment.
+● Implemented secure authentication and authorization mechanisms with OAuth 2.0 and JWT, ensuring robust security across multiple systems.
+● Implemented rigorous quality assurance processes through the development of comprehensive test scripts and the utilization of automated
+testing tools such as Jest, Mocha, and Chai, significantly reducing the occurrence of bugs and enhancing software reliability.
+Software Trainee
+● Developed responsive UI for customer-facing web pages using Bootstrap and ReactJs; managed source code with Git and maintained documentation in Confluence.
+● Contributed to a cross-functional team to align visions with engineering capabilities, ensuring project deliverables met both business objectives and technical standards.
+
+PROJECTS
+Swara OTT - AWS Serverless Architecture, Lambda functions, MongoDB, Next.js Jan 2022 – Dec 2023
+● Implemented a cost-efficient architecture with AWS Lambda functions, reducing operational costs by 30%.
+● Established robust user authentication and access control through AWS Cognito, ensuring a secure and user-friendly authentication process.
+● Leveraged AWS Elemental MediaConvert and MediaTailor to streamline video transcoding into HLS format and enable seamless advertisement
+insertion, enhancing content accessibility and monetization capabilities.
+Microservices-based Student Survey Application May 2023 – Aug 2023
+● Spearheaded the creation of a student survey application, utilizing cutting-edge technologies such as Docker for containerization, Kubernetes for container orchestration, and Spring Boot for backend development.
+● Integrated Amazon RDS for efficient database management, ensuring data integrity and scalability, contributing to the application's high availability with over 99% uptime.
+● Implemented a robust Continuous Integration/Continuous Deployment (CI/CD) pipeline using Jenkins, achieving a 75% reduction in deployment time and enhancing operational efficiency.
+
+TECHNICAL SKILLS
+WebTechnologies&Frameworks: React,ReactNative,TypeScript,JavaScript,Node,Python,AWSCognito,AWSLambda,ServerLess,Tailwind CSS, CSS, HTML5, ES6, Webpack, UX, user experience, Java
+Databases & Tools: MongoDB, MySQL, POSTGRES, Github, Postman, AWS S3, EC2, Docker, Kubernetes, RDS.
+  
+ 
